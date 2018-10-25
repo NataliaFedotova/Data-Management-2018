@@ -23,3 +23,4 @@
 Динамика трех лидеров
 
 ![15](https://user-images.githubusercontent.com/44474528/47529365-45b2f580-d8b0-11e8-8087-84ddbf14b0a3.PNG)
+![16](https://user-images.githubusercontent.com/44474528/47529482-9a567080-d8b0-11e8-8368-2ed46121f66c.PNG)
