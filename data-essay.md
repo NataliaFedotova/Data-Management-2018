@@ -3,3 +3,4 @@
 
 Процентное соотношение полученных книжных изданий в районах России
 ![4](https://user-images.githubusercontent.com/44474528/47528291-77768d00-d8ad-11e8-94f0-a588f438b635.PNG)
+![5](https://user-images.githubusercontent.com/44474528/47528329-983ee280-d8ad-11e8-88b6-eb43ca737689.PNG)
