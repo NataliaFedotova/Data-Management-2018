@@ -16,3 +16,4 @@
 
 Также мы можем сравнить общее количество полученных книжных изданий с общим количеством недавно опубликованных книг и брошюр.
 ![11](https://user-images.githubusercontent.com/44474528/47529220-df2dd780-d8af-11e8-9464-5a7cf5d83870.PNG)
+![12](https://user-images.githubusercontent.com/44474528/47529267-fec50000-d8af-11e8-8d84-b0709eeed4bc.PNG)
